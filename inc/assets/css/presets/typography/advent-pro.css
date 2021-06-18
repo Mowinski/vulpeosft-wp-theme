@@ -1,0 +1,32 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Advent Pro';
+}
+
+body {
+    font-family: 'Advent Pro';
+}
+body p {
+    margin: 1em 0;
+}
+body a:hover {
+    transition: 0.3s ease-in;
+}
+.post-thumbnail {
+    margin-bottom: 1em;
+}
+
+.font-semi-bold {
+    font-weight: 600;
+}
+
+.font-medium {
+    font-weight: 500;
+}
+
+.font-regular {
+    font-weight: 400;
+}
+
+.font-light {
+    font-weight: 300;
+}

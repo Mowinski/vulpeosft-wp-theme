@@ -1,0 +1,36 @@
+.vulpesoft-carousel-caption {
+    top: 40%;
+    bottom: 40%
+}
+
+.vulpesoft-carousel-caption h5 {
+    font-size: 50px;
+    color: white
+}
+
+.vulpesoft-carousel-caption h6 {
+    font-size: 40px;
+    color: white
+}
+
+.vulpesoft-carousel-caption .btn {
+    border-radius: 0.65rem;
+    font-size: 1.5rem;
+    margin-left: 20px;
+    margin-right: 20px;
+    min-width: 200px;
+}
+
+.vulpesoft-navbar .menu-item {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.vulpesoft-navbar .menu-item a {
+    text-transform: uppercase;
+    font-size: 1.5rem;
+}
+
+.news-header {
+    font-weight: 300;
+}
